@@ -1,12 +1,12 @@
 # Steem
 
-### An incentivized, blockchain-based social media platform.
+### Platforma social media z wbudowanym mechanizmem zachęty
 
 
 Daniel Larimer, Ned Scott, Valentine Zavgorodnev, Benjamin Johnson, James Calfee, Michael Vandeberg
-March 2016
+Marzec 2016
 
-# Abstract
+# Abstrakt
 Steem jest bazą danych zbudowaną w technologii blockchain, która wspiera tworzenie społeczności i interakcje pomiędzy użytkownikami poprzez nagrody w kryptowalucie.
 Steem łączy koncepty social media z wnioskami wyciągniętymi z budowania kryptowalut oraz społeczności w okół nich.
 Ważnym czynnikiem inspirującym uczestnictwo w danej społeczności, walutę czy nawet wolny rynek jest uczciwy system księgujący, który stale odzwierciedla włożoną pracę kążdej osoby.
