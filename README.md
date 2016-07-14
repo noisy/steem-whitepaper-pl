@@ -4,6 +4,7 @@
 
 
 Daniel Larimer, Ned Scott, Valentine Zavgorodnev, Benjamin Johnson, James Calfee, Michael Vandeberg
+
 Marzec 2016
 
 # Abstrakt
