@@ -16,7 +16,7 @@ Steem jest pierwszą kryptowalutą, która próbuje odpowiednio i transparentnie
 # Spis Treści
 
 * [Abstrakt](README.md#abstrakt)
-* [Spis Treści](README.md#spis-tresci)
+* [Spis Treści](README.md#spis-treści)
 * [Introduction](Introduction.md)
   * [Recognizing Contribution](Introduction/Recognizing Contribution.md)
 * Ways to Contribute
