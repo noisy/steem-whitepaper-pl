@@ -1,6 +1,6 @@
 # Steem
 
-### Platforma social media z wbudowanym mechanizmem zachęty
+### Platforma social media z wbudowanym mechanizmem zachęty, oparta na technologii blockchain 
 
 
 Daniel Larimer, Ned Scott, Valentine Zavgorodnev, Benjamin Johnson, James Calfee, Michael Vandeberg
