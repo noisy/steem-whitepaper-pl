@@ -13,10 +13,10 @@ Steem łączy koncepty social media z wnioskami wyciągniętymi z budowania kryp
 Ważnym czynnikiem inspirującym uczestnictwo w danej społeczności, walutę czy nawet wolny rynek jest uczciwy system księgujący, który stale odzwierciedla włożoną pracę kążdej osoby.
 Steem jest pierwszą kryptowalutą, która próbuje odpowiednio i transparentnie wynagradzać bezkresną liczbę osób, które dokonały znaczącego wkładu w swoją społeczność.
 
-# Table of Contents
+# Spis Treści
 
-* [Abstract](README.md#abstract)
-* [Table of Contents](README.md#table-of-contents)
+* [Abstrakt](README.md#abstrakt)
+* [Spis Treści](README.md#spis-tresci)
 * [Introduction](Introduction.md)
   * [Recognizing Contribution](Introduction/Recognizing Contribution.md)
 * Ways to Contribute
