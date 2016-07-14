@@ -15,11 +15,11 @@ individuals who make subjective contributions to its community.
 
 # Table of Contents
 
-* Abstract
-* Table of Contents
+* [Abstract](README.md#abstract)
+* [Table of Contents](README.md#table-of-contents)
 * [Introduction](Introduction.md)
   * [Recognizing Contribution](Introduction/Recognizing Contribution.md)
-* [Ways to Contribute](Ways to Contribute.md)
+* Ways to Contribute
   * Capital Contributions
   * Steem (STEEM)
   * Steem Power (SP)
