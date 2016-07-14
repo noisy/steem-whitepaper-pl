@@ -1,9 +1,8 @@
-Introduction
-------------
+Wstęp
+-----
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. 
-**In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair
-share in Reddit, Inc [[1](http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/)].** 
+Łącznie, treści wygenerowane przez użytkowników wygenerowały miliardy dolarów dla udziałowców firm social media, takich jak Reddit, Facebook czy Twitter.
+**W 2014 roku, Reddit stwierdził, że ich platforma mogłaby być udoskonalona gdyby każdy kto udzielał się w serwisie poprzez publikowanie postów, dodawanie komentarzy lub głosowanie, został nagrodzony stosownym udziałem w spółce Reddit. [[1](http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/)].** 
 Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 
