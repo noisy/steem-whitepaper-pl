@@ -7,10 +7,10 @@ Daniel Larimer, Ned Scott, Valentine Zavgorodnev, Benjamin Johnson, James Calfee
 March 2016
 
 # Abstract
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards.
-Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities.
-An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution.
-Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make subjective contributions to its community.
+Steem jest bazą danych zbudowaną w technologii blockchain, która wspiera tworzenie społeczności i interakcje pomiędzy użytkownikami poprzez nagrody w kryptowalucie.
+Steem łączy koncepty social media z wnioskami wyciągniętymi z budowania kryptowalut oraz społeczności w okół nich.
+Ważnym czynnikiem inspirującym uczestnictwo w danej społeczności, walutę czy nawet wolny rynek jest uczciwy system księgujący, który stale odzwierciedla włożoną pracę kążdej osoby.
+Steem jest pierwszą kryptowalutą, która próbuje odpowiednio i transparentnie wynagradzać <unbounded?> <niezliczoną?> liczbę osób, które dokonały znaczącego wkładu w swoją społeczność.
 
 # Table of Contents
 
